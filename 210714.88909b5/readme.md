@@ -4,14 +4,14 @@ This update site contains the 210714.88909b5 release of Sireum's OSATE plugins a
 intended to be used with [Sireum's Phantom tool](https://github.com/sireum/phantom)
 or the FMIDE install script (see the
 [CASE](https://github.com/sireum/case-env#setting-up-fmide-and-hamr-only)
-setup instructions for mor information). No other support is offered.
+setup instructions for more information). No other support is offered.
 
 ## How to Install the 210714.88909b5 Sireum OSATE Plugins Using Phantom
 
 Install [Sireum](https://github.com/sireum/kekinian#installing) and then run the following:
 
 ```batch
-$SIREUM_HOME/bin/sireum hamr phantom -u --features org.sireum.aadl.osate.cli.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5;org.sireum.aadl.osate.hamr.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5
+$SIREUM_HOME/bin/sireum hamr phantom -u --features "org.sireum.aadl.osate.cli.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5;org.sireum.aadl.osate.hamr.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5"
 ```
 
 ## Resolving Potential Version Issues
@@ -29,7 +29,7 @@ you still want to use this version of the plugins then you will need to build th
   git checkout 88909b5
   git submodule update --init --recursive
   bin\build.cmd
-  bin\sireum hamr phantom -u --features org.sireum.aadl.osate.cli.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5;org.sireum.aadl.osate.hamr.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5
+  bin\sireum hamr phantom -u --features "org.sireum.aadl.osate.cli.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5;org.sireum.aadl.osate.hamr.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5"
   ```
 
 * Linux:
@@ -40,7 +40,7 @@ you still want to use this version of the plugins then you will need to build th
   git checkout 88909b5
   git submodule update --init --recursive
   bin/build.cmd
-  bin/sireum hamr phantom -u --features org.sireum.aadl.osate.cli.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5;org.sireum.aadl.osate.hamr.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5
+  bin/sireum hamr phantom -u --features "org.sireum.aadl.osate.cli.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5;org.sireum.aadl.osate.hamr.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5"
   ```
 
 * macOS:
@@ -51,6 +51,6 @@ you still want to use this version of the plugins then you will need to build th
   git checkout 88909b5
   git submodule update --init --recursive
   bin/build.cmd
-  bin/sireum hamr phantom -u --features org.sireum.aadl.osate.cli.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5;org.sireum.aadl.osate.hamr.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5
+  bin/sireum hamr phantom -u --features "org.sireum.aadl.osate.cli.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5;org.sireum.aadl.osate.hamr.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/210714.88909b5"
   ```
 
