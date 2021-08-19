@@ -17,3 +17,8 @@ $SIREUM_HOME/bin/sireum hamr phantom -u
 ## Installing a Specific Version of the Plugins
 
 Refer to the readme of a particular release for specific installation instructions.
+
+Releases
+
+- [1.0.2107141642.88909b5](1.0.2107141642.88909b5)
+- [1.0.2108171500.882b6b5](1.0.2108171500.882b6b5)
