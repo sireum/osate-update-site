@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Sireum AWAS plugin Update Site">
+      Sireum AWAS plugin Update Site
+   </description>
+   <feature url="features/org.sireum.aadl.osate.awas.feature_1.0.2109301725.abd2495.jar" id="org.sireum.aadl.osate.awas.feature" version="1.0.2109301725.abd2495">
+      <category name="org.sireum.aadl.osate.category"/>
+   </feature>
+   <category-def name="org.sireum.aadl.osate.category" label="Sireum">
+      <description>
+         Sireum features
+      </description>
+   </category-def>
+</site>
