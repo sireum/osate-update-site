@@ -5,10 +5,11 @@
   <properties size='1'>
     <property name='p2.timestamp' value='1243822502499'/>
   </properties>
-  <children size='4'>
+  <children size='5'>
     <child location='org.sireum.aadl.osate'/>
     <child location='org.sireum.aadl.osate.awas'/>
     <child location='org.sireum.aadl.osate.cli'/>
     <child location='org.sireum.aadl.osate.hamr'/>
+    <child location='org.sireum.aadl.osate.securitymodel'/>
   </children>
 </repository>
