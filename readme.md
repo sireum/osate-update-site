@@ -29,3 +29,4 @@ Refer to the readme of a particular release for specific installation instructio
 - [1.0.2110042144.6634cce](1.0.2110042144.6634cce)
 - [1.0.2110251959.20bccec](1.0.2110251959.20bccec)
 - [1.2022.01051723.29d9922](1.2022.01051723.29d9922)
+- [1.2022.05312206.7924d1e](1.2022.05312206.7924d1e)
