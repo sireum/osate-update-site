@@ -8,7 +8,7 @@ setup instructions for more information). No other support is offered.
 
 ## How to Install the Latest Sireum OSATE Plugins Using Phantom
 
-Install [Sireum](https://github.com/sireum/kekinian#installing) and then run the following:
+Install [Sireum](https://sireum.org/getting-started) and then run the following:
 
 ```batch
 $SIREUM_HOME/bin/sireum hamr phantom -u
