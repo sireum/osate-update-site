@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Sireum OSATE CLI Plugin Update Site">
+      Sireum OSATE CLI Plugin Update Site
+   </description>
+   <feature url="features/org.sireum.aadl.osate.cli.feature_1.2023.7271345.065b5fa.jar" id="org.sireum.aadl.osate.cli.feature" version="1.2023.7271345.065b5fa">
+      <category name="org.sireum.aadl.osate.category"/>
+   </feature>
+   <category-def name="org.sireum.aadl.osate.category" label="Sireum">
+      <description>
+         Sireum features
+      </description>
+   </category-def>
+</site>
