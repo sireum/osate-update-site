@@ -46,3 +46,4 @@ Refer to the readme of a particular release for specific installation instructio
 - [1.2025.02030750.0afce52b](1.2025.02030750.0afce52b)
 - [1.2025.02180940.6aa1de1c](1.2025.02180940.6aa1de1c)
 - [1.2025.03090911.ff179091](1.2025.03090911.ff179091)
+- [1.2025.06020757.f5a533c1](1.2025.06020757.f5a533c1)
