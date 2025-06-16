@@ -28,7 +28,6 @@ f5a533c1 version of Sireum and then run Phantom as follows:
   cd Sireum
   git checkout f5a533c1
   git submodule update --init --recursive
-  wget -O bin/sireum.jar https://github.com/sireum/kekinian/releases/download/4.20250507.4f76f0e/sireum.jar
   bin\build.cmd
   bin\sireum hamr phantom -u --features "org.sireum.aadl.osate.cli.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/1.2025.06020757.f5a533c1;org.sireum.aadl.osate.hamr.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/1.2025.06020757.f5a533c1"
   ```
@@ -40,7 +39,6 @@ f5a533c1 version of Sireum and then run Phantom as follows:
   cd Sireum
   git checkout f5a533c1
   git submodule update --init --recursive
-  wget -O bin/sireum.jar https://github.com/sireum/kekinian/releases/download/4.20250507.4f76f0e/sireum.jar
   bin/build.cmd
   bin/sireum hamr phantom -u --features "org.sireum.aadl.osate.cli.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/1.2025.06020757.f5a533c1;org.sireum.aadl.osate.hamr.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/1.2025.06020757.f5a533c1"
   ```
@@ -52,7 +50,6 @@ f5a533c1 version of Sireum and then run Phantom as follows:
   cd Sireum
   git checkout f5a533c1
   git submodule update --init --recursive
-  wget -O bin/sireum.jar https://github.com/sireum/kekinian/releases/download/4.20250507.4f76f0e/sireum.jar
   bin/build.cmd
   bin/sireum hamr phantom -u --features "org.sireum.aadl.osate.cli.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/1.2025.06020757.f5a533c1;org.sireum.aadl.osate.hamr.feature.feature.group=https://raw.githubusercontent.com/sireum/osate-update-site/master/1.2025.06020757.f5a533c1"
   ```
